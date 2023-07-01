@@ -1,0 +1,112 @@
+.navbar{
+    padding-left: 800px;
+    display: inline;
+    float: left;
+    position:fixed;
+    display: flex;
+   
+}
+.home,.About,.pet,.blog,.con,.don{
+    padding: 15px;
+    font-size: 20px;
+    font-style: italic;
+    text-underline-position: none;
+}
+.para{
+    color: rgb(177, 47, 33);
+    font-size: 30px;
+    font-style: bold;
+}
+.head1{
+    padding-top: 50px;
+    font-size: 50px;
+}
+.footer{
+    background-color:whitesmoke;
+    padding-bottom: 0px;
+    display: fixed;
+    
+}#new-pet-form{
+    padding-top: 17px;
+    padding: 20px;
+}
+.time
+{
+    padding-left: 10px;
+
+    font-size: 20px;
+    color: black;
+}
+.joi
+{
+    color: rgb(10, 16, 179);
+}
+#button
+{
+    font-size: 17px;
+    border-radius: 15%;
+}
+#name-input{
+    font-size: 20px; 
+}
+#number-input
+{
+    font-size: 20px;
+}
+.foter{
+    text-align:center ;
+}
+#button:hover{
+    border: 3px solid black;
+    background-color: aquamarine;
+    cursor:pointer;
+}
+#name-input:hover{
+    border: 3px solid black;
+    background-color: aquamarine;
+    cursor:pointer;
+    
+
+}
+#number-input:hover{
+    border: 3px solid black;
+    background-color: aquamarine;
+    cursor:pointer;
+}
+
+
+.teli{
+    height: 19px;
+    width: 19px;
+padding: 5px;
+}
+.ins{
+    height: 19px;
+    width: 19px;
+    padding: 5px;
+}
+.twit{
+    height: 19px;
+    width: 19px;
+    padding: 5px;
+}
+.img{
+    position: center;
+}
+.symbol{
+font-size: 20px;
+float: inline-start;  
+padding-left: 15px;
+padding-top: 20px;
+padding: 2px;
+padding-right: 40px;  
+position: fixed;
+}
+.top{
+    align-items: flex-end;
+    padding-right: 1350px;
+}
+.for{
+font-size: 20px;
+
+}
